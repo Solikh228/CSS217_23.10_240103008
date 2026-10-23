@@ -1,0 +1,4 @@
+Student ID: 240103008
+Successfully read [app.env]: ValueFor_app.env
+Caught ConfigNotFoundException: Unable to read config key: db.error
+Underlying cause: java.sql.SQLException
