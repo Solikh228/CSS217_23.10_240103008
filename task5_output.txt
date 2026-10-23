@@ -1,0 +1,5 @@
+Student ID: 240103008
+Item: 240103008
+Item: Database Systems
+Item: Software Engineering
+Item: Computer Networks
